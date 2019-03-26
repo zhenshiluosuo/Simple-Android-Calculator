@@ -8,7 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="btn_cal">
-        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:background">#D3D3D3</item>
+        <item name="android:textSize">60px</item>
+    </style>
+    <style name="btn_cal_1">
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">#EEA9B8</item>
